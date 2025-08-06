@@ -45,7 +45,6 @@ A full-stack real-time messaging chat application powered by redis and pusher.
 
 **Live Demo:** [https://zap-chat-seven.vercel.app](https://zap-chat-seven.vercel.app)
 
-\<img alt="Dashboard Screenshot" src="[https://via.placeholder.com/800x400?text=ZapChat+Dashboard](https://via.placeholder.com/800x400?text=ZapChat+Dashboard)"\>
 
 -----
 
